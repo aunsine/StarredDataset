@@ -38,12 +38,14 @@ Please install following "json"(version 2.0.9 or higher) and "pandas" (version 1
 
 # Validation
  - Invalid parameter
- - 
+ 
  ![image](https://user-images.githubusercontent.com/73420344/124178270-935d7280-dadb-11eb-9da3-44c2f02dbeba.png)
+
 
  - Not exist Github username and/or repository name
 
 ![image](https://user-images.githubusercontent.com/73420344/124178306-9d7f7100-dadb-11eb-9280-50104991ee04.png)
+
 
  - Invalid option
 
