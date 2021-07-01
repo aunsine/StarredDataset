@@ -16,4 +16,5 @@ Please install following "json"(version 2.0.9 or higher) and "pandas" (version 1
     3.2 repo_name : following by option '-r' or '--repo_name'
 
     Sample 
+    
         python stargazer.py -u aunsine -r MyRepo
