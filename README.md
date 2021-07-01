@@ -8,7 +8,7 @@ Please install following "json"(version 2.0.9 or higher) and "pandas" (version 1
 
     pip install pandas
 
-# How to execute
+# Deployment and how to execute
 1. Download source code and place in a desired directory.
 2. Open command prompt window and change working directory to the previous path.
 3. Execute program, there are 2 mandatory parameters 
