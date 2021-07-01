@@ -15,9 +15,11 @@ Please install following "json"(version 2.0.9 or higher) and "pandas" (version 1
 ![image](https://user-images.githubusercontent.com/73420344/124177833-f8649880-dada-11eb-9513-0942f4e2ee96.png)
 
 
+
 2. Go to run, type "cmd" to open command prompt window and change working directory to the previous path.
 
 ![image](https://user-images.githubusercontent.com/73420344/124178017-3792e980-dadb-11eb-81c0-bd1d9ef6759f.png)
+
 
 3. Execute program, there are 2 mandatory parameters 
 
@@ -31,3 +33,18 @@ Please install following "json"(version 2.0.9 or higher) and "pandas" (version 1
         
     **Expected result**        
 ![image](https://user-images.githubusercontent.com/73420344/124177604-a885d180-dada-11eb-9eb4-2a41b597a18c.png)
+
+
+
+# Validation
+ - Invalid parameter
+ ![image](https://user-images.githubusercontent.com/73420344/124178270-935d7280-dadb-11eb-9da3-44c2f02dbeba.png)
+
+ - Not exist Github username and/or repository name
+
+![image](https://user-images.githubusercontent.com/73420344/124178306-9d7f7100-dadb-11eb-9280-50104991ee04.png)
+
+ - Invalid option
+
+![image](https://user-images.githubusercontent.com/73420344/124178332-a4a67f00-dadb-11eb-8641-e217a1cde354.png)
+ 
