@@ -23,3 +23,6 @@ Please install following "json"(version 2.0.9 or higher) and "pandas" (version 1
     **Sample** 
     
         python stargazer.py -u aunsine -r MyRepo
+        
+    **Expected result**        
+![image](https://user-images.githubusercontent.com/73420344/124177604-a885d180-dada-11eb-9eb4-2a41b597a18c.png)
