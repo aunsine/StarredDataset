@@ -34,7 +34,10 @@ Please install following "json"(version 2.0.9 or higher) and "pandas" (version 1
     **Expected result**        
 ![image](https://user-images.githubusercontent.com/73420344/124177604-a885d180-dada-11eb-9eb4-2a41b597a18c.png)
 
+    **Sample output file**
+    ![image](https://user-images.githubusercontent.com/73420344/124178840-2e564c80-dadc-11eb-9d94-a69a9dbe7679.png)
 
+    
 
 # Validation
  - Invalid parameter
