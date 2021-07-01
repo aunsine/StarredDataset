@@ -17,6 +17,7 @@ Please install following "json"(version 2.0.9 or higher) and "pandas" (version 1
 3. Execute program, there are 2 mandatory parameters 
 
     3.1 username : following by option  '-u' or --user_name'
+    
     3.2 repo_name : following by option '-r' or '--repo_name'
 
     **Sample** 
