@@ -1,0 +1,82 @@
+2021-07-02 01:13:04,731,731 root ERROR local variable 'data' referenced before assignment
+Traceback (most recent call last):
+  File "d:\Me\Learning\Git_Stargazer\stargazers.py", line 40, in get_stargazer_data
+    if len(data) <=0:
+UnboundLocalError: local variable 'data' referenced before assignment
+2021-07-02 01:13:04,731,731 root ERROR local variable 'data' referenced before assignment
+Traceback (most recent call last):
+  File "d:\Me\Learning\Git_Stargazer\stargazers.py", line 40, in get_stargazer_data
+    if len(data) <=0:
+UnboundLocalError: local variable 'data' referenced before assignment
+2021-07-02 01:13:41,093,93 root ERROR 0
+Traceback (most recent call last):
+  File "d:\Me\Learning\Git_Stargazer\stargazers.py", line 54, in get_stargazer_data
+    str_starred_at =  data[i]['starred_at']
+KeyError: 0
+2021-07-02 01:13:41,093,93 root ERROR 0
+Traceback (most recent call last):
+  File "d:\Me\Learning\Git_Stargazer\stargazers.py", line 54, in get_stargazer_data
+    str_starred_at =  data[i]['starred_at']
+KeyError: 0
+2021-07-02 01:14:59,293,293 root ERROR 0
+Traceback (most recent call last):
+  File "d:\Me\Learning\Git_Stargazer\stargazers.py", line 54, in get_stargazer_data
+    str_starred_at =  data[i]['starred_at']
+KeyError: 0
+2021-07-02 01:14:59,293,293 root ERROR 0
+Traceback (most recent call last):
+  File "d:\Me\Learning\Git_Stargazer\stargazers.py", line 54, in get_stargazer_data
+    str_starred_at =  data[i]['starred_at']
+KeyError: 0
+2021-07-02 01:15:13,429,429 root ERROR 0
+Traceback (most recent call last):
+  File "d:\Me\Learning\Git_Stargazer\stargazers.py", line 54, in get_stargazer_data
+    str_starred_at =  data[i]['starred_at']
+KeyError: 0
+2021-07-02 01:15:13,429,429 root ERROR 0
+Traceback (most recent call last):
+  File "d:\Me\Learning\Git_Stargazer\stargazers.py", line 54, in get_stargazer_data
+    str_starred_at =  data[i]['starred_at']
+KeyError: 0
+2021-07-02 01:16:13,056,56 root ERROR 0
+Traceback (most recent call last):
+  File "d:\Me\Learning\Git_Stargazer\stargazers.py", line 47, in get_stargazer_data
+    if len(data) <=0:
+KeyError: 0
+2021-07-02 01:16:13,056,56 root ERROR 0
+Traceback (most recent call last):
+  File "d:\Me\Learning\Git_Stargazer\stargazers.py", line 47, in get_stargazer_data
+    if len(data) <=0:
+KeyError: 0
+2021-07-02 01:19:51,870,870 root ERROR 
+Traceback (most recent call last):
+  File "d:\Me\Learning\Git_Stargazer\stargazers.py", line 47, in get_stargazer_data
+    if len(data) <=0:
+  File "d:\Me\Learning\Git_Stargazer\stargazers.py", line 47, in get_stargazer_data
+    if len(data) <=0:
+  File "D:\Program\Python\lib\bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "D:\Program\Python\lib\bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+2021-07-02 01:19:51,870,870 root ERROR 
+Traceback (most recent call last):
+  File "d:\Me\Learning\Git_Stargazer\stargazers.py", line 47, in get_stargazer_data
+    if len(data) <=0:
+  File "d:\Me\Learning\Git_Stargazer\stargazers.py", line 47, in get_stargazer_data
+    if len(data) <=0:
+  File "D:\Program\Python\lib\bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "D:\Program\Python\lib\bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+2021-07-02 01:24:18,050,50 root ERROR 0
+Traceback (most recent call last):
+  File "d:\Me\Learning\Git_Stargazer\stargazers.py", line 53, in get_stargazer_data
+    my_list = []
+KeyError: 0
+2021-07-02 01:24:18,050,50 root ERROR 0
+Traceback (most recent call last):
+  File "d:\Me\Learning\Git_Stargazer\stargazers.py", line 53, in get_stargazer_data
+    my_list = []
+KeyError: 0
